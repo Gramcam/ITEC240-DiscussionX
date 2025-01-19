@@ -1,0 +1,16 @@
+DNS INFORMATION FROM TEAMS
+
+A - SiteForge.infotech.pri
+IP - 172.17.28.29
+A - WebAnvil.infotech.pri
+IP - 172.17.28.72
+CNAME - NickWeb.infotech.pri
+IP - 172.17.28.29
+CNAME - BradyWeb.Infotech.pri
+IP - 172.17.28.29
+CNAME - TristanWeb.infotech.pri
+IP - 172.17.28.29
+CNAME - JohnWeb.infotech.pri
+IP - 172.17.28.29
+CNAME - GrahamWeb.Infotech.pri
+IP - 172.17.28.29
